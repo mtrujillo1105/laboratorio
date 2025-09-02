@@ -31,3 +31,6 @@ composer.lock
 
 public/
 nbproject
+sql/
+.styleci.yml
+app.yaml
