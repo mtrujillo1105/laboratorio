@@ -1,4 +1,4 @@
-# Configuración del proyecto Catalogo
+# Configuración del proyecto Laboratorio
 Catalogo de productos con Laravel
 
 ## Requisitos
